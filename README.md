@@ -10,3 +10,6 @@ If I click the button to generate a password, I am presented with a series of pr
 * The character types to include in the password
 
 * Including lowercase, uppercase, numeric, and/or special characters
+
+
+I deployed the page in GitHub using the Github pages and this is the link : https://safazgolli.github.io/challage-03/
