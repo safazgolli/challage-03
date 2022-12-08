@@ -1,4 +1,4 @@
-# Password genaration- Challange02 :
+# Password generator :
 
 # Discription
  As a students in the Bootcamp, it was required in the assiment to write a JavaScript code that allows to generate Password based on multiple prompt given by the user. for that I use deffirent methods and functions that helped to get a good execution.
