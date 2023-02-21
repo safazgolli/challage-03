@@ -12,4 +12,5 @@ If I click the button to generate a password, I am presented with a series of pr
 * Including lowercase, uppercase, numeric, and/or special characters
 
 
-I deployed the page in GitHub using the Github pages and this is the link : https://safazgolli.github.io/challage-03/
+I deployed the page in GitHub using the Github pages and this is the link : https://safazgolli.github.io/password-generator/
+
